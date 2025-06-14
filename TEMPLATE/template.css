@@ -1,0 +1,17 @@
+.container{
+    width: 80%;
+    height:540px;
+    /* border: 2px solid red; */
+    margin-left:100px;
+}
+.item{
+    display:inline-block;
+    width:200px;
+    /* border: 2px solid green; */
+    height:400px;
+    margin-left:20px;
+    margin-top: 30px;
+}
+img{
+    width: 200px;
+}
